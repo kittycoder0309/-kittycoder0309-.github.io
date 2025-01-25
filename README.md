@@ -32,20 +32,17 @@
             <img src="gustave3.jpg" alt="Gustave posing next to his birhtday cake" width="300">
         </section>
 
-        <section>
+    
             <h4>Learn More About Tabby Cats</h4>
             <p>To learn more about tabby cats like Gustave, you can check out this very interesting article:
                 <a href="https://www.thesprucepets.com/all-about-tabby-cats-552489" target="_blank">All About Tabby
                     Cats</a>.
 
-        </section>
-    </main>
-
     <footer>
         <p>Thank you for visiting Gustave's page!</p>
     </footer>
+    </main>
 </body>
-
 </html>
 ![gustave1](https://github.com/user-attachments/assets/2ef92d9d-0387-489b-94ac-7cfeaa781cc5)
 ![gustave3](https://github.com/user-attachments/assets/ef49e2a9-ad4d-425b-9c7d-b63afd8cfd55)
