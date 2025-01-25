@@ -47,3 +47,6 @@
 </body>
 
 </html>
+![gustave1](https://github.com/user-attachments/assets/2ef92d9d-0387-489b-94ac-7cfeaa781cc5)
+![gustave3](https://github.com/user-attachments/assets/ef49e2a9-ad4d-425b-9c7d-b63afd8cfd55)
+![gustave2](https://github.com/user-attachments/assets/b0889c4e-bb8e-4cd9-9e76-a9acee637044)
